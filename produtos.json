@@ -1,0 +1,16 @@
+produtos = {
+    "produtos": [
+        {
+            "titulo": "Prod1",
+            "preco": 10
+        },
+        {
+            "titulo": "Prod2",
+            "preco": 20
+        },
+        {
+            "titulo": "Prod3",
+            "preco": 30
+        }
+    ]
+};
